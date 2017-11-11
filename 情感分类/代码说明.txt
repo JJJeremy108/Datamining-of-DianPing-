@@ -1,0 +1,2 @@
+datapreprocess.py根据评分自动划分积极评论和消极评论
+sentiment-analysis.py情感分析
